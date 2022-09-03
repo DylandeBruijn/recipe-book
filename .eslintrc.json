@@ -10,7 +10,7 @@
       ],
       "parserOptions": {
         "project": [
-          "tsconfig.json"
+          "recipe-book/tsconfig.json"
         ],
         "createDefaultProgram": true
       },
